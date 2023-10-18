@@ -1,0 +1,4 @@
+name: CookieClicker
+version: '${project.version}'
+main: net.jadedmc.cookieclicker.CookieClickerPlugin
+api-version: 1.20
